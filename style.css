@@ -1,6 +1,9 @@
   body{
     display: flex;
     flex-direction: column;
+    background-color: hsl(233, 47%, 7%); 
+    padding: 50px; 
+    margin-block: 80px;
   }
 
   .container{
@@ -13,7 +16,7 @@
     font-weight: 700;
     font-family: 'Inter', sans-serif;
     margin-bottom: 1px;
-    line-height: 2rem;
+    line-height: 2.2rem;
   }
   
   li{
