@@ -25,10 +25,12 @@
 
   img{
     height: 100%;
-    border-top-right-radius: 8px;
-    border-bottom-right-radius: 8px;
     object-fit: cover;
     opacity: 0.3;
+  }
+
+  .row1{
+    border-radius: 2rem; overflow: hidden;
   }
 
   .item{
@@ -38,7 +40,6 @@
   .caixa {
     background: hsl(244, 38%, 16%);
     font-family: 'Nerko One', cursive;
-    border-radius: 5px;
     padding-bottom: 0;
   }
 
